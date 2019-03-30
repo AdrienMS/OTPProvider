@@ -1,0 +1,4 @@
+I use PostgresSQL as DB
+I have 2 db : opt_db for OTP provider, and service_user for service Provider (see database.ini of server and service folder and screenshots)
+
+And see route.pdf to see how to call routes
